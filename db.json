@@ -23,6 +23,12 @@
       "day": "12 de nov 12hs",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "silvar bajito",
+      "day": "hoy a la noche",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
